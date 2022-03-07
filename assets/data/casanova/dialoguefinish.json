@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "angry",
+			"expression": "XD",
+			"text": "AHAHAHAHAHA! DID YOU REALLY EXPECTED A REWARDING ENDING???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "It's as iF you Forgot what I said the First time you entered my game LOL!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "XD",
+			"text": "Anyway! Thanks for letting me waste your time! Have fun collapsing with this Universe!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Quite sad to see you die like this but I couldn't care less."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "angry",
+			"expression": "happy",
+			"text": "BYE!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "Maybe next time... I will be allowed to meet real Mama and Papa..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rasazy",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "...Someday..."
+		}
+	]
+}

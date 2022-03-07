@@ -1,0 +1,123 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "XD",
+			"text": "HAPPY APRIL FOOLS!!."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "I Felt like I needed to say that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "LOL yes, I see YOU"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "LOL yeah, that's Fine. Expect me to talk a lot but y'know I don't care if it annoys you a lot."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "angry",
+			"expression": "angery",
+			"text": "So, let's have some Fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "I see..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "Tampering with my own parallel world..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "Lol, look dude, I don't know how you got here..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "The Name's Selever by the way!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I'm kinda pissed you entered my parallel world, I made this temporarily so my sister can at least feel the warmth of our parents..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "...Even in this parallel universe I made, it's not the real them."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "So, while my power can keep this place together..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "normal",
+			"expression": "upset",
+			"text": "So, while my power can keep this place together..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "selever",
+			"boxState": "angry",
+			"expression": "angery",
+			"text": "...I'll end y'all along with this place!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		}
+	]
+}

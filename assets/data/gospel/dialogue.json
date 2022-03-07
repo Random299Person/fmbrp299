@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "angery",
+			"text": "Sorry Sarv."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvente",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "It's fine. It is really."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "angery",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvente",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvente",
+			"boxState": "normal",
+			"expression": "smile",
+			"text": "I'm quite tired of this cat and mouse chase y'know?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvente",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "So I want to let out a little secret of mine. Let's keep this between the four of us okay?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ruv",
+			"boxState": "normal",
+			"expression": "normal",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sarvente",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "May God forgive you..."
+		}
+	]
+}

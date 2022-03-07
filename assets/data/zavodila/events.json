@@ -1,0 +1,50 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "churchruv",
+		"player1": "bf",
+		"player2": "ruv",
+		"player3": null,
+		"events": [
+			[
+				101818.181818182,
+				[
+					[
+						"Set Opponent Screen Shake",
+						"0",
+						""
+					],
+					[
+						"Darken Stage",
+						".5",
+						""
+					]
+				]
+			],
+			[
+				105454.545454546,
+				[
+					[
+						"Set Opponent Screen Shake",
+						"0.01",
+						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.1"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"p2shake": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 132,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Zavodila"
+	}
+}

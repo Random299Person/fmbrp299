@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "SelHappy",
+			"idle_offsets": [
+				-180,
+				-70
+			],
+			"idle_name": "SelHappy",
+			"anim": "happy",
+			"loop_offsets": [
+				-180,
+				-70
+			]
+		},
+		{
+			"loop_name": "SelSmile",
+			"idle_offsets": [
+				-180,
+				-70
+			],
+			"idle_name": "SelSmile",
+			"anim": "smile",
+			"loop_offsets": [
+				-180,
+				-70
+			]
+		},
+		{
+			"loop_name": "SelUpset",
+			"idle_offsets": [
+				-180,
+				-70
+			],
+			"idle_name": "SelUpset",
+			"anim": "upset",
+			"loop_offsets": [
+				-180,
+				-70
+			]
+		},
+		{
+			"loop_name": "SelXD",
+			"idle_offsets": [
+				-180,
+				-70
+			],
+			"idle_name": "SelXD",
+			"anim": "XD",
+			"loop_offsets": [
+				-180,
+				-70
+			]
+		},
+		{
+			"loop_name": "SelAngery",
+			"idle_offsets": [
+				-180,
+				-70
+			],
+			"idle_name": "SelAngery",
+			"anim": "angery",
+			"loop_offsets": [
+				-180,
+				-70
+			]
+		}
+	],
+	"image": "mfmportraits_Dialogue"
+}
