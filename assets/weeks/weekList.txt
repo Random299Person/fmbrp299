@@ -7,3 +7,5 @@ week5
 week6
 sm1
 sm2
+mfm1
+bob1
