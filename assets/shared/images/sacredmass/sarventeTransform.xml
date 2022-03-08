@@ -20,32 +20,32 @@ verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
 triangles  => sprite triangulation, 3 vertex indices per triangle
 -->
 <TextureAtlas imagePath="sarventeTransform.png">
-	<SubTexture name="SarvTransAnim0000" x="5304" y="1709" width="761" height="443" oX="192" oY="217" oW="832" oH="995" pivotY="90"/>
-	<SubTexture name="SarvTransAnim0001" x="5315" y="1263" width="764" height="444" oX="192" oY="215" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0000" x="5304" y="1709" width="761" height="443" oX="192" oY="217" oW="832" oH="995" r="y"/>
+	<SubTexture name="SarvTransAnim0001" x="5315" y="1263" width="764" height="444" oX="192" oY="215" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0002" x="4291" y="1554" width="538" height="769" oX="139" oY="211" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0003" x="4349" y="1" width="472" height="772" oX="163" oY="207" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0004" x="3926" y="1" width="421" height="777" oX="215" oY="202" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0005" x="3834" y="813" width="447" height="777" oX="201" oY="202" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0006" x="767" y="3679" width="777" height="379" oX="244" oY="202" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0006" x="767" y="3679" width="777" height="379" oX="244" oY="202" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0007" x="3886" y="3249" width="344" height="777" oX="241" oY="202" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0008" x="1546" y="3678" width="779" height="352" oX="248" oY="200" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0008" x="1546" y="3678" width="779" height="352" oX="248" oY="200" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0009" x="4823" y="1" width="484" height="768" oX="180" oY="210" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0010" x="4821" y="775" width="492" height="768" oX="170" oY="210" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0011" x="5315" y="770" width="767" height="491" oX="171" oY="213" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0011" x="5315" y="770" width="767" height="491" oX="171" oY="213" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0012" x="4831" y="1545" width="471" height="762" oX="190" oY="220" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0013" x="5304" y="2154" width="760" height="468" oX="189" oY="221" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0013" x="5304" y="2154" width="760" height="468" oX="189" oY="221" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0014" x="4831" y="2309" width="465" height="754" oX="183" oY="218" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0015" x="5298" y="2624" width="754" height="462" oX="184" oY="218" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0015" x="5298" y="2624" width="754" height="462" oX="184" oY="218" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0016" x="4736" y="3065" width="462" height="754" oX="184" oY="218" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0017" x="5200" y="3088" width="754" height="462" oX="184" oY="218" oW="832" oH="995" pivotY="90"/>
-	<SubTexture name="SarvTransAnim0018" x="5200" y="3552" width="754" height="462" oX="184" oY="218" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0017" x="5200" y="3088" width="754" height="462" oX="184" oY="218" oW="832" oH="995" r="y"/>
+	<SubTexture name="SarvTransAnim0018" x="5200" y="3552" width="754" height="462" oX="184" oY="218" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0019" x="767" y="2844" width="462" height="833" oX="184" oY="139" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0020" x="744" y="972" width="604" height="870" oX="106" oY="102" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0021" x="1" y="1948" width="679" height="950" oX="87" oY="33" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0022" x="4232" y="3213" width="502" height="770" oX="168" oY="215" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0023" x="4283" y="780" width="536" height="772" oX="147" oY="215" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0024" x="3966" y="2436" width="581" height="775" oX="124" oY="215" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0025" x="2327" y="3457" width="793" height="584" oX="131" oY="194" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0025" x="2327" y="3457" width="793" height="584" oX="131" oY="194" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0026" x="2877" y="1" width="592" height="817" oX="124" oY="167" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0027" x="1" y="1" width="702" height="973" oX="48" oY="4" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0028" x="1" y="976" width="741" height="970" oX="25" oY="4" oW="832" oH="995"/>
@@ -53,11 +53,11 @@ triangles  => sprite triangulation, 3 vertex indices per triangle
 	<SubTexture name="SarvTransAnim0030" x="1" y="2900" width="764" height="915" oX="25" oY="58" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0031" x="682" y="1948" width="757" height="894" oX="17" oY="69" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0032" x="1350" y="972" width="802" height="839" oX="7" oY="121" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0033" x="3122" y="3284" width="762" height="782" oX="8" oY="91" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0033" x="3122" y="3284" width="762" height="782" oX="8" oY="91" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0034" x="1431" y="1" width="808" height="837" oX="10" oY="16" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0035" x="1231" y="2844" width="801" height="832" oX="7" oY="21" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0036" x="3522" y="1632" width="767" height="802" oX="29" oY="16" oW="832" oH="995"/>
-	<SubTexture name="SarvTransAnim0037" x="5309" y="1" width="713" height="767" oX="29" oY="105" oW="832" oH="995" pivotY="90"/>
+	<SubTexture name="SarvTransAnim0037" x="5309" y="1" width="713" height="767" oX="29" oY="105" oW="832" oH="995" r="y"/>
 	<SubTexture name="SarvTransAnim0038" x="2154" y="840" width="768" height="818" oX="41" oY="144" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0039" x="1441" y="1813" width="714" height="827" oX="59" oY="154" oW="832" oH="995"/>
 	<SubTexture name="SarvTransAnim0040" x="2241" y="1" width="634" height="817" oX="110" oY="160" oW="832" oH="995"/>
