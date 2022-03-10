@@ -58,16 +58,4 @@ triangles  => sprite triangulation, 3 vertex indices per triangle
 	<SubTexture name="SarvTransAnim0035" x="25585" y="0" width="731" height="874"/>
 	<SubTexture name="SarvTransAnim0036" x="26316" y="0" width="731" height="874"/>
 	<SubTexture name="SarvTransAnim0037" x="27047" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0038" x="27778" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0039" x="28509" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0040" x="29240" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0041" x="29971" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0042" x="30702" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0043" x="31433" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0044" x="32164" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0045" x="32895" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0046" x="33626" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0047" x="34357" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0048" x="35088" y="0" width="731" height="874"/>
-	<SubTexture name="SarvTransAnim0049" x="35819" y="0" width="731" height="874"/>
 </TextureAtlas>
