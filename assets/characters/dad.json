@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				10
+				-5,
+				26
 			],
 			"loop": false,
 			"anim": "singLEFT",
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				-30
+				-3,
+				-33
 			],
 			"loop": false,
 			"anim": "singDOWN",
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				27
+				42,
+				10
 			],
 			"loop": false,
 			"anim": "singRIGHT",
@@ -118,20 +118,31 @@
 				59
 			],
 			"name": "Dad Sing Note UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				-100
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/DADDY_DEAREST",
 	"position": [
-		0,
-		0
+		60,
+		-40
 	],
 	"healthicon": "dad",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		102,
-		206
+		49,
+		176,
+		209
 	],
 	"camera_position": [
 		0,

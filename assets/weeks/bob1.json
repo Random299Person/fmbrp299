@@ -37,13 +37,13 @@
 		"gf"
 	],
 	"storyName": "bob",
-	"weekName": "Week Bob",
+	"weekName": "bob1",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
+	"weekBefore": "mfm1",
 	"startUnlocked": true
 }
