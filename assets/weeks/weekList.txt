@@ -6,3 +6,5 @@ sm1
 sm2
 mfm1
 bob1
+finnandjake
+nohero

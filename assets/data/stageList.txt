@@ -14,3 +14,5 @@ churchdark
 churchruv
 hellchurch
 seleverchurch
+place
+brotherlybond
