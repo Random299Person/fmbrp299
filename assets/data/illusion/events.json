@@ -1,8 +1,8 @@
 {
 	"song": {
 		"speed": 2.6,
-		"stage": "place2",
-		"player1": "bf-christmas",
+		"stage": "spooky",
+		"player1": "bf",
 		"player2": "monster",
 		"player3": null,
 		"events": [
@@ -12,11 +12,6 @@
 					[
 						"Set Narration Text",
 						"...",
-						""
-					],
-					[
-						"Darken Stage",
-						"1",
 						""
 					]
 				]
@@ -148,6 +143,11 @@
 						"Set Narration Text",
 						"This world's grown so toothless and tame",
 						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
 					]
 				]
 			],
@@ -188,6 +188,11 @@
 						"Set Narration Text",
 						"They'll",
 						""
+					],
+					[
+						"Darken Stage",
+						"1",
+						".5"
 					]
 				]
 			],
@@ -278,6 +283,81 @@
 						"Set Narration Text",
 						"...",
 						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				54666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				56000,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				57333.3333333334,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				58666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				61333.3333333334,
+				[
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
+					]
+				]
+			],
+			[
+				62666.6666666667,
+				[
+					[
+						"Darken Stage",
+						"1",
+						"0.5"
 					]
 				]
 			],
@@ -398,6 +478,11 @@
 						"Set Narration Text",
 						"Your",
 						""
+					],
+					[
+						"Darken Stage",
+						"0",
+						"0.5"
 					]
 				]
 			],
@@ -428,6 +513,41 @@
 						"Set Narration Text",
 						"Mine",
 						""
+					]
+				]
+			],
+			[
+				87333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					]
+				]
+			],
+			[
+				88333.3333333333,
+				[
+					[
+						"Set Narration Text",
+						"See you soon little boyfriend...",
+						""
+					]
+				]
+			],
+			[
+				91000,
+				[
+					[
+						"Set Narration Text",
+						"...",
+						""
+					],
+					[
+						"Opponent_Fade",
+						"2",
+						"1"
 					]
 				]
 			]
