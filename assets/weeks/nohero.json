@@ -1,14 +1,20 @@
 {
 	"storyName": "Your New Week",
+	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "stage",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"weekBefore": "tutorial",
 	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
 	"songs": [
 		[
 			"NO HERO Remastered",
@@ -48,10 +54,5 @@
 		]
 	],
 	"hideStoryMode": true,
-	"weekCharacters": [
-		"dad",
-		"bf",
-		"gf"
-	],
 	"weekName": "Custom Week"
 }
