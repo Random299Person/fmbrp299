@@ -16,3 +16,6 @@ hellchurch
 seleverchurch
 place
 brotherlybond
+lost
+alley
+missingno

@@ -7,6 +7,36 @@
 		"player3": null,
 		"events": [
 			[
+				480,
+				[
+					[
+						"Set Narration Text",
+						"This is my favorite song! :)",
+						""
+					]
+				]
+			],
+			[
+				1440,
+				[
+					[
+						"Set Narration Text",
+						"",
+						""
+					]
+				]
+			],
+			[
+				1920,
+				[
+					[
+						"Camera Effect",
+						"wobble",
+						"1"
+					]
+				]
+			],
+			[
 				48000,
 				[
 					[

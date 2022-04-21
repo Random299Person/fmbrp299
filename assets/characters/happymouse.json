@@ -112,7 +112,7 @@
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/happymouse_assets",
+	"image": "characters/sadmouse/happymouse_assets",
 	"position": [
 		-70,
 		20

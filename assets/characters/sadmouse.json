@@ -112,7 +112,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/sadmouse_assets",
+	"image": "characters/sadmouse/sadmouse_assets",
 	"position": [
 		-70,
 		20

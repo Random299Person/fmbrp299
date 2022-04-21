@@ -22,3 +22,8 @@ pico-player
 finn
 jake
 bubble
+gfhypno
+hypno
+hypno-two
+gold
+missingno
