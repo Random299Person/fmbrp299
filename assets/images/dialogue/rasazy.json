@@ -1,37 +1,37 @@
 {
-	"dialogue_pos": "center",
+	"dialogue_pos": "left",
 	"position": [
-		0,
-		50
+		150,
+		10
 	],
-	"scale": 1.25,
+	"scale": 1.5,
 	"animations": [
 		{
-			"loop_name": "RasNormal",
 			"idle_offsets": [
-				20,
-				-60
+				0,
+				0
 			],
-			"idle_name": "RasNormal",
-			"anim": "normal",
+			"anim": "sad",
 			"loop_offsets": [
-				20,
-				-60
-			]
+				0,
+				0
+			],
+			"idle_name": "RasSad",
+			"loop_name": "RasSad"
 		},
 		{
-			"loop_name": "RasBruh",
-			"idle_offsets": [
-				20,
-				-61
-			],
-			"idle_name": "RasBruh",
-			"anim": "bruh",
 			"loop_offsets": [
-				20,
-				-61
-			]
+				0,
+				0
+			],
+			"anim": "normal",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "RasNormal",
+			"idle_name": "RasNormal"
 		}
 	],
-	"image": "mfmportraits_Dialogue"
+	"image": "portraits_2"
 }

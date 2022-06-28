@@ -9,11 +9,12 @@ street-alt
 happy-land
 slightly-annoyed-land
 hellstage
-churchlight
-churchdark
-churchruv
-hellchurch
-seleverchurch
+church
+church_dark
+church_grey
+churchohgod
+church_split
+iglesia
 place
 brotherlybond
 lost

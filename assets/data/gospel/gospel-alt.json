@@ -1,8 +1,8 @@
 {
 	"song": {
 		"sectionLengths": [],
-		"player1": "bf",
-		"player2": "sarvente-lucifer",
+		"player1": "bf-car",
+		"player2": "sarvente_lucifer",
 		"notes": [
 			{
 				"sectionNotes": [],
@@ -8222,10 +8222,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
+		"player3": "gf-car",
 		"song": "Gospel",
 		"validScore": true,
-		"stage": "hellchurch",
+		"stage": "churchohgod",
 		"needsVoices": true,
 		"arrowSkin": "sacredmass/crossNotes",
 		"sections": 0,

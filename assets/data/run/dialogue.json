@@ -12,7 +12,7 @@
 			"text": "boop ski bep",
 			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "bfpe"
 		},
 		{
 			"expression": "talk",

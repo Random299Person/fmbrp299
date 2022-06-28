@@ -3418,10 +3418,10 @@
 				"mustHitSection": true
 			}
 		],
-		"player2": "sarvente-dark",
+		"player2": "sarvente_dark",
 		"player3": "gf",
 		"song": "Worship",
-		"stage": "churchdark",
+		"stage": "church_dark",
 		"needsVoices": true,
 		"validScore": true,
 		"sections": 0,

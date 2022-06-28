@@ -9,7 +9,7 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "bfpe",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "boop skedeep"
@@ -23,7 +23,7 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "bfpe",
 			"boxState": "normal",
 			"expression": "talk",
 			"text": "you kinda look like Dream "
@@ -37,7 +37,7 @@
 		},
 		{
 			"speed": 0.05,
-			"portrait": "bf",
+			"portrait": "bfpe",
 			"boxState": "normal",
 			"expression": "excited",
 			"text": "beep boop (funny)"
