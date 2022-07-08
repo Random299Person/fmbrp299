@@ -1,66 +1,66 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [
-				-6,
-				-83
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Proper Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-68,
-				50
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Proper Right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-53,
-				-73
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Proper Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-45,
-				220
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "Proper Left",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
-				-150,
-				200
+				290,
+				550
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Phase 3 Tricky Idle",
+			"name": "Tricky Hell idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				302,
+				494
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				350
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				441,
+				297
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				352,
+				513
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right note",
 			"indices": []
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/tricky/trickyhell",
+	"no_antialiasing": true,
+	"image": "characters/tricky/helltricky",
 	"position": [
 		0,
-		0
+		100
 	],
 	"healthicon": "trickyhell",
 	"flip_x": false,
@@ -70,9 +70,9 @@
 		204
 	],
 	"camera_position": [
-		0,
-		-650
+		-450,
+		-480
 	],
-	"sing_duration": 6.1,
-	"scale": 4
+	"sing_duration": 4,
+	"scale": 1.7
 }

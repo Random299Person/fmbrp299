@@ -1,58 +1,113 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "SarvDarkIdle",
-			"indices": []
+			"indices": [],
+			"name": "SarvDarkIdle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
+				50,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "SarvDarkUp",
-			"indices": []
+			"indices": [],
+			"name": "SarvDarkUp"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				0
+				50,
+				-30
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "SarvDarkDown",
-			"indices": []
+			"indices": [],
+			"name": "SarvDarkDown"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				0
+				-10
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "SarvDarkRight",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
 			"anim": "singLEFT",
+			"indices": [],
+			"name": "SarvDarkLeft"
+		},
+		{
+			"offsets": [
+				70,
+				-10
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "SarvDarkLeft",
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "SarvDarkRight"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "SarvDarkAltRight"
+		},
+		{
+			"offsets": [
+				60,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "SarvDarkAltDown"
+		},
+		{
+			"offsets": [
+				-70,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "SarvDarkAltLeft"
+		},
+		{
+			"offsets": [
+				50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "SarvDarkAltUp"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "idle-alt",
+			"fps": 12,
+			"name": "TiredSarv",
 			"indices": []
 		}
 	],
